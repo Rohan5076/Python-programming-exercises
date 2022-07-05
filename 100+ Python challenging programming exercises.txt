@@ -8,6 +8,7 @@ Level 3	Advanced. He should use Python to solve more complex problem using more 
 
 2.	Problem template
 
+
 #----------------------------------------#
 Question
 Hints
